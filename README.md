@@ -12,3 +12,5 @@ Features
 How to use it
 - press the menu for starting the 5min race start timer
 - the activity tracking will wait for GPS signal and start automatically until you exit the app
+- 
+How install it ????
